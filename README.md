@@ -230,8 +230,8 @@ docker pull asguardNetwork/spacefolders:icqd-lates
 
 ```shell
 docker pull asguardNetwork/spacefolders:ics
-docker pull asguardNetwork/spacefolders:ics-v1.0.0-rc5
-docker pull asguardNetwork/spacefolders:ics-1.0.0-rc5
+docker pull asguardNetwork/spacefolders:ics-v1.0.0-rc7
+docker pull asguardNetwork/spacefolders:ics-1.0.0-rc7
 ```
 
 [injective](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=injective):
