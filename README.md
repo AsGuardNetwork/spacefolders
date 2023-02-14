@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 52 chains.
+Actively creating container images for 53 chains.
 
 [acrechain](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=acrechain):
 
@@ -336,6 +336,14 @@ docker pull asguardNetwork/spacefolders:polygon-bor-0.3.3
 docker pull asguardNetwork/spacefolders:polygon-geth
 docker pull asguardNetwork/spacefolders:polygon-geth-v0.3.3
 docker pull asguardNetwork/spacefolders:polygon-geth-0.3.3
+```
+
+[polygon-heimdall](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=polygon-heimdall):
+
+```shell
+docker pull asguardNetwork/spacefolders:polygon-heimdall
+docker pull asguardNetwork/spacefolders:polygon-heimdall-v0.3.0
+docker pull asguardNetwork/spacefolders:polygon-heimdall-0.3.0
 ```
 
 [regen](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=regen):
