@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 50 chains.
+Actively creating container images for 51 chains.
 
 [acrechain](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=acrechain):
 
@@ -320,6 +320,14 @@ docker pull asguardNetwork/spacefolders:omniflixhub-0.8.0
 docker pull asguardNetwork/spacefolders:onomy
 docker pull asguardNetwork/spacefolders:onomy-v1.0.1
 docker pull asguardNetwork/spacefolders:onomy-1.0.1
+```
+
+[polygon-bor](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=polygon-bor):
+
+```shell
+docker pull asguardNetwork/spacefolders:polygon-bor
+docker pull asguardNetwork/spacefolders:polygon-bor-v0.3.3
+docker pull asguardNetwork/spacefolders:polygon-bor-0.3.3
 ```
 
 [regen](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=regen):
