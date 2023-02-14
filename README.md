@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 51 chains.
+Actively creating container images for 52 chains.
 
 [acrechain](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=acrechain):
 
@@ -328,6 +328,14 @@ docker pull asguardNetwork/spacefolders:onomy-1.0.1
 docker pull asguardNetwork/spacefolders:polygon-bor
 docker pull asguardNetwork/spacefolders:polygon-bor-v0.3.3
 docker pull asguardNetwork/spacefolders:polygon-bor-0.3.3
+```
+
+[polygon-geth](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=polygon-geth):
+
+```shell
+docker pull asguardNetwork/spacefolders:polygon-geth
+docker pull asguardNetwork/spacefolders:polygon-geth-v0.3.3
+docker pull asguardNetwork/spacefolders:polygon-geth-0.3.3
 ```
 
 [regen](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=regen):
