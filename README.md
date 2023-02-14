@@ -270,8 +270,8 @@ docker pull asguardNetwork/spacefolders:kichain-4.2.0
 
 ```shell
 docker pull asguardNetwork/spacefolders:kujira
-docker pull asguardNetwork/spacefolders:kujira-v0.7.1
-docker pull asguardNetwork/spacefolders:kujira-0.7.1
+docker pull asguardNetwork/spacefolders:kujira-v0.8.0
+docker pull asguardNetwork/spacefolders:kujira-0.8.0
 ```
 
 [likecoin](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=likecoin):
