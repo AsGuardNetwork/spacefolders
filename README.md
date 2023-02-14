@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 49 chains.
+Actively creating container images for 50 chains.
 
 [acrechain](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=acrechain):
 
@@ -8,6 +8,14 @@ Actively creating container images for 49 chains.
 docker pull asguardNetwork/spacefolders:acrechain
 docker pull asguardNetwork/spacefolders:acrechain-v1.1.1
 docker pull asguardNetwork/spacefolders:acrechain-1.1.1
+```
+
+[althea](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=althea):
+
+```shell
+docker pull asguardNetwork/spacefolders:althea
+docker pull asguardNetwork/spacefolders:althea-v0.3.2
+docker pull asguardNetwork/spacefolders:althea-0.3.2
 ```
 
 [archway](https://hub.docker.com/r/asguardNetwork/spacefolders/tags?page=1&name=archway):
@@ -400,6 +408,4 @@ docker pull asguardNetwork/spacefolders:terra-2.2.1
 docker pull asguardNetwork/spacefolders:vidulum
 docker pull asguardNetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardNetwork/spacefolders:vidulum-1.2.0
-```
-2.0
 ```
