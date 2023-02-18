@@ -390,8 +390,8 @@ docker pull asguardnetwork/spacefolders:sim-0.45.14
 
 ```shell
 docker pull asguardnetwork/spacefolders:sommelier
-docker pull asguardnetwork/spacefolders:sommelier-v4.0.3
-docker pull asguardnetwork/spacefolders:sommelier-4.0.3
+docker pull asguardnetwork/spacefolders:sommelier-v5.0.0
+docker pull asguardnetwork/spacefolders:sommelier-5.0.0
 ```
 
 ### [stargaze](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=stargaze)
