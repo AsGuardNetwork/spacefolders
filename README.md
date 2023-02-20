@@ -302,8 +302,8 @@ docker pull asguardnetwork/spacefolders:neutron-0.1.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:nibiru
-docker pull asguardnetwork/spacefolders:nibiru-v0.19.0
-docker pull asguardnetwork/spacefolders:nibiru-0.19.0
+docker pull asguardnetwork/spacefolders:nibiru-v0.19.1
+docker pull asguardnetwork/spacefolders:nibiru-0.19.1
 ```
 
 ### [omniflixhub](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=omniflixhub)
