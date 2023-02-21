@@ -230,8 +230,8 @@ docker pull asguardnetwork/spacefolders:icqd-lates
 
 ```shell
 docker pull asguardnetwork/spacefolders:ics
-docker pull asguardnetwork/spacefolders:ics-v1.0.0-rc7
-docker pull asguardnetwork/spacefolders:ics-1.0.0-rc7
+docker pull asguardnetwork/spacefolders:ics-v1.0.0
+docker pull asguardnetwork/spacefolders:ics-1.0.0
 ```
 
 ### [injective](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=injective)
@@ -440,4 +440,6 @@ docker pull asguardnetwork/spacefolders:ununifi-1.0.0-beta.4
 docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
+```
+2.0
 ```
