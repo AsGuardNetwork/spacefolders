@@ -406,8 +406,8 @@ docker pull asguardnetwork/spacefolders:stargaze-8.1.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:stride
-docker pull asguardnetwork/spacefolders:stride-v5.0.0
-docker pull asguardnetwork/spacefolders:stride-5.0.0
+docker pull asguardnetwork/spacefolders:stride-v6.0.0
+docker pull asguardnetwork/spacefolders:stride-6.0.0
 ```
 
 ### [tendermint](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=tendermint)
