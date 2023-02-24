@@ -302,8 +302,8 @@ docker pull asguardnetwork/spacefolders:neutron-0.1.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:nibiru
-docker pull asguardnetwork/spacefolders:nibiru-v0.19.2-rc3
-docker pull asguardnetwork/spacefolders:nibiru-0.19.2-rc3
+docker pull asguardnetwork/spacefolders:nibiru-v0.19.2
+docker pull asguardnetwork/spacefolders:nibiru-0.19.2
 ```
 
 ### [omniflixhub](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=omniflixhub)
@@ -440,4 +440,6 @@ docker pull asguardnetwork/spacefolders:ununifi-1.0.0-beta.4
 docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
+```
+2.0
 ```
