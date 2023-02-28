@@ -46,8 +46,8 @@ docker pull asguardnetwork/spacefolders:axelar-0.31.3
 
 ```shell
 docker pull asguardnetwork/spacefolders:bitcanna
-docker pull asguardnetwork/spacefolders:bitcanna-v1.5.3
-docker pull asguardnetwork/spacefolders:bitcanna-1.5.3
+docker pull asguardnetwork/spacefolders:bitcanna-v1.6.0-fix
+docker pull asguardnetwork/spacefolders:bitcanna-1.6.0-fix
 ```
 
 ### [bitsong](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=bitsong)
@@ -440,6 +440,4 @@ docker pull asguardnetwork/spacefolders:ununifi-1.0.0-beta.4
 docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
-```
-2.0
 ```
