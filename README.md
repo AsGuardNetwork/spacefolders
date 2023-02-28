@@ -78,8 +78,8 @@ docker pull asguardnetwork/spacefolders:burnt-0.0.2
 
 ```shell
 docker pull asguardnetwork/spacefolders:celestia-app
-docker pull asguardnetwork/spacefolders:celestia-app-v0.11.1
-docker pull asguardnetwork/spacefolders:celestia-app-0.11.1
+docker pull asguardnetwork/spacefolders:celestia-app-v0.12.0
+docker pull asguardnetwork/spacefolders:celestia-app-0.12.0
 ```
 
 ### [celestia-core](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=celestia-core)
