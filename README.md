@@ -14,8 +14,8 @@ docker pull asguardnetwork/spacefolders:acrechain-1.1.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:althea
-docker pull asguardnetwork/spacefolders:althea-v0.3.2
-docker pull asguardnetwork/spacefolders:althea-0.3.2
+docker pull asguardnetwork/spacefolders:althea-v0.4.0
+docker pull asguardnetwork/spacefolders:althea-0.4.0
 ```
 
 ### [archway](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=archway)
