@@ -326,8 +326,8 @@ docker pull asguardnetwork/spacefolders:onomy-1.0.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:polygon-bor
-docker pull asguardnetwork/spacefolders:polygon-bor-v0.3.3
-docker pull asguardnetwork/spacefolders:polygon-bor-0.3.3
+docker pull asguardnetwork/spacefolders:polygon-bor-v0.3.4
+docker pull asguardnetwork/spacefolders:polygon-bor-0.3.4
 ```
 
 ### [polygon-geth](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=polygon-geth)
