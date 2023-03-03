@@ -102,8 +102,8 @@ docker pull asguardnetwork/spacefolders:celestia-node-0.6.4
 
 ```shell
 docker pull asguardnetwork/spacefolders:cheqd
-docker pull asguardnetwork/spacefolders:cheqd-v1.2.8
-docker pull asguardnetwork/spacefolders:cheqd-1.2.8
+docker pull asguardnetwork/spacefolders:cheqd-v1.3.0
+docker pull asguardnetwork/spacefolders:cheqd-1.3.0
 ```
 
 ### [comdex](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=comdex)
