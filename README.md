@@ -214,8 +214,8 @@ docker pull asguardnetwork/spacefolders:ibc-go-simd-7.0.0-beta2
 
 ```shell
 docker pull asguardnetwork/spacefolders:icad
-docker pull asguardnetwork/spacefolders:icad-v0.4.0
-docker pull asguardnetwork/spacefolders:icad-0.4.0
+docker pull asguardnetwork/spacefolders:icad-v0.5.0
+docker pull asguardnetwork/spacefolders:icad-0.5.0
 ```
 
 ### [icqd](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=icqd)
