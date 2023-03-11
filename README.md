@@ -110,8 +110,8 @@ docker pull asguardnetwork/spacefolders:cheqd-1.3.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:comdex
-docker pull asguardnetwork/spacefolders:comdex-Mainnet-v9.0.0
-docker pull asguardnetwork/spacefolders:comdex-Mainnet-v9.0.0
+docker pull asguardnetwork/spacefolders:comdex-v9.1.0
+docker pull asguardnetwork/spacefolders:comdex-9.1.0
 ```
 
 ### [crescent](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=crescent)
@@ -440,6 +440,8 @@ docker pull asguardnetwork/spacefolders:ununifi-1.0.0-beta.4
 docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
+```
+idulum-1.2.0
 ```
 2.0
 ```
