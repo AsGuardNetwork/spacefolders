@@ -174,8 +174,8 @@ docker pull asguardnetwork/spacefolders:emoney-1.2.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:evmos
-docker pull asguardnetwork/spacefolders:evmos-v11.0.2
-docker pull asguardnetwork/spacefolders:evmos-11.0.2
+docker pull asguardnetwork/spacefolders:evmos-v12.0.0-rc1
+docker pull asguardnetwork/spacefolders:evmos-12.0.0-rc1
 ```
 
 ### [fetchhub](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=fetchhub)
@@ -441,7 +441,7 @@ docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
 ```
-idulum-1.2.0
+.2.0
 ```
 2.0
 ```
