@@ -486,8 +486,8 @@ docker pull asguardnetwork/spacefolders:tendermint-0.34.24
 
 ```shell
 docker pull asguardnetwork/spacefolders:terra
-docker pull asguardnetwork/spacefolders:terra-v2.4.1
-docker pull asguardnetwork/spacefolders:terra-2.4.1
+docker pull asguardnetwork/spacefolders:terra-v2.1.2
+docker pull asguardnetwork/spacefolders:terra-2.1.2
 ```
 
 ### [ununifi](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=ununifi)
